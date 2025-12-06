@@ -8,7 +8,7 @@ def concatenate_strings(strings: List[str]) -> str:
 
 def display_message(message: str):
     print(message)
-    
+
 def main():
     data = process_data("example data")
     print(data)
